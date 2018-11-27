@@ -1,3 +1,11 @@
+This repo was taken from the friendlyarm repo specifically for targeting the neo4 u-boot system.
+
+wiki   : http://wiki.friendlyarm.com/wiki/index.php/NanoPi_NEO4#Compile_FriendlyCore.2FFriendlyDesktop.2FLubuntu_U-boot_Source_Code
+repo   : https://gitlab.com/friendlyelec/rk3399-nougat
+branch : nanopc-t4-nougat
+dir    : rk3399-nougat/u-boot
+
+
 #
 # (C) Copyright 2000 - 2013
 # Wolfgang Denk, DENX Software Engineering, wd@denx.de.
